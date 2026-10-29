@@ -1,0 +1,33 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "React Learning Module",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/uday264/Learning_React#readme",
+  "bugs": {
+    "url": "https://github.com/uday264/Learning_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uday264/Learning_React.git"
+  },
+  "license": "ISC",
+  "author": "uday",
+  "type": "commonjs",
+  "scripts": {
+    "start":"npx parcel index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
